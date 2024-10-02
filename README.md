@@ -35,7 +35,7 @@
 
     * Adicione um ``__construct`` que inicialize os atributos da classe que você criou com seu ``Nome``.
 
-    * Adicione um método chamado ``queSouEu()`` que apresente informações que você deseja.
+    * Adicione um método chamado ``quemSouEu()`` que apresente informações que você deseja.
 
     * Adicione um método chamado ``oQueQueroSer()`` que receba um parametro informando o que você quer ser e guarde em um atributo que novo. (Dica: crie um atributo novo para receber essa informação)
 
